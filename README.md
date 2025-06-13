@@ -76,7 +76,7 @@ CSV data was imported and modeled in Power BI using relationships between entiti
 
 Overview Dashboard | Clients & Promotions | Inventory & Logistics | Sales & Products
 :------------------:|:-----------:|:--------------:|:-----------------:
-![Overview](./overview.png) | ![Clients&Promotions](./Clients&Promotions.png) | ![Inventory&Logistics](./Inventory&Logistics.png) | ![Sales&Products](./Sales&Products.png) 
+![Overview](./Overview.png) | ![Clients&Promotions](./Clients&Promotions.png) | ![Inventory&Logistics](./Inventory&Logistics.png) | ![Sales&Products](./Sales&Products.png) 
 
 ---
 
