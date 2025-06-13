@@ -70,7 +70,7 @@ CSV data was imported and modeled in Power BI using relationships between entiti
 
 ## Screenshots
 
-#Cover Page
+Cover Page
 :---------------------------------------------------------------------:
 ![Cover](./Screenshots/Cover.png)
 
