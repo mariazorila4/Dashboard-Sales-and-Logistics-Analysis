@@ -1,7 +1,7 @@
 # Power BI Sales & Logistics Dashboard
 
 <p align="center">
-  <img src/Screenshots="DashboardPowerBI.png" alt="Logo" width="600">
+  <img src="DashboardPowerBI.png" alt="Logo" width="600">
 </p>
 <p align="center">
   <em>Created using Canva AI tools. I do not claim ownership of the visual elements.<br>
